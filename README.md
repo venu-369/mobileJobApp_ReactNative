@@ -13,3 +13,8 @@ npx create-react-native-app -t with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 - [Request for Comments](https://github.com/expo/router/discussions/1)
+
+
+### Scan with your mobile.
+
+https://expo.dev/@venu26999/react_native_jobs?serviceType=classic&distribution=expo-go
